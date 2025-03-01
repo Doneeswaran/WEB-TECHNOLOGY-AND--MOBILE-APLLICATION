@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to right, #000000, #00f2fe);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+}
+
+.main {
+    text-align: center;
+}
+
+.JK {
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#FL {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
