@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SD Card Writer</string>
+    <string name="read">READ</string>
+    <string name="write">WRITE</string>
+    <string name="clear">CLEAR</string>
+    <string name="enter_text_here">Enter text here</string>
+    <string name="footer_text">Write text to your storage</string>
+    
+    <!-- Dialog messages -->
+    <string name="dialog_success_title">Success</string>
+    <string name="dialog_success_message">Text saved successfully to:</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_show_path">Show Full Path</string>
+    <string name="dialog_full_path_title">Full File Path</string>
+    <string name="permission_required_title">Storage Permission Required</string>
+    <string name="permission_required_message">This app needs access to your storage to write files. Please grant permission in the next screen.</string>
+    <string name="permission_denied_message">Permission denied. Cannot write to storage.</string>
+    <string name="permission_granted_message">Permission granted</string>
+</resources>
